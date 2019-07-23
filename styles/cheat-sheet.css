@@ -1,0 +1,23 @@
+/* cheat-sheet.css */
+/* body is a selector  to change the style of the body section on an HTML file */
+body {
+	background:salmon; 					/*background is a property to 
+										change the background color 
+										and salmon is the 
+										property value */ 
+
+/* there are 140 color names 
+/*https://www.rapidtables.com/web/css/css-color.html **/
+}
+
+/*heading is class selector that can be applied to several element on my html page*/
+.heading {
+	color:gold;
+}
+
+/* my_paragraph is an id selector that has styling that applies only to use one tg on my html. The tag id should be the same as this selector */
+#my_paragraph {
+	text-align: right;
+	text-decoration: underline;
+	font-weight: bold;
+}

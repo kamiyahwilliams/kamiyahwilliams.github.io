@@ -1,0 +1,42 @@
+/*main.css*/
+
+#navigation {
+border-style:solid;
+	background-color:lightblue;
+	color
+}
+
+.nav
+{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+body {
+	background:rgb(181, 171, 237) ;
+    font-family: 'Inconsolata', monospace;
+}
+h1{color:lightblue;
+	
+}
+ol {
+	font-weight: bold;
+	color: white;
+}
+a {color:rgb(252, 161, 154);
+text-decoration: none;}
+
+
+p { color: white}
+<p style="font-size: 13px; text-align: center; width: 600px;">
